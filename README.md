@@ -84,7 +84,7 @@ Frontend · Backend · Testing · DevOps — 🟢 Moderate (observed, not rated)
 
 <sub>Evidence-based · No AI ranking · passport v2 · analysis v9 · 2026-09-28</sub>
 
-<sub>This passport was generated at gitsocial.space</sub>
+<sub>This passport was generated at</sub>
 
 <a href="https://gitsocial.space/passport/devlewicki"><img src="assets/gitsocialspace-logo.png" alt="GitSocialSpace" width="240"></a>
 
